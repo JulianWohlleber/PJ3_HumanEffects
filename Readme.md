@@ -1,13 +1,13 @@
 #PRJ3_HumanEffects
 
 Since humen exist they affect on their environment. One of the resulting effects is that animal species like the Galapagos tortoise extinct.  
-My flipdotwork faces this issue and breaks it down into two binary states; the moment you're sharing area with animals your taking impact on their daily behaviour. This is why progress for humen often means means regress for nature.   
+My flipdotwork faces this issue and breaks it down into two binary states; the moment you're sharing area with animals you're taking impact on their daily behaviour. This is why progress for humen often means  regress for nature.   
 In my flipdotwork I  equated this circumstance with a simple step forward - as the spectator steps forward and verges the object,  the tortose sitting in its recess in the box dies.
 
-[link to Video](https://vimeo.com/123685335) 
+link to the [Video](https://vimeo.com/123685335) 
 
 ##IDEA  
-When I started to realize my project, my first idea was to use facedetection with the help of the simple cv library and the raspberry pi with a usb web-cam.  The goal was to make an task for the spectator which was impossible to solve: Face the text on the Flipdot and read it. At the moment, the spectator would look at the dot, the dot would flip. The spectator would realize there is something written on the dot, but each time he would try to face it, it would dissappear.  
+When I started to realize my project, my first idea was to use facedetection with the help of the simple cv library and the raspberry pi with a usb web-cam.  The goal was to make a task for the spectator which was impossible to solve: Face the text on the Flipdot and read it. At the moment, the spectator would look at the dot, the dot would flip. The spectator would realize there is something written on the dot, but each time he would try to face it, it would disappear.  
 Unfortunatly the facedetection of simple cv was to inaccurate: As the head was tilted, no face was detected anymore. Another Problem was, that the raspberry Pi was way too slow to interpret the pictures that came from the usb cam via simple cv. It wouldve been too easy to trick out the system, so the whole charm of my project would've been lost.  
 Thats why I decided to look for new Hardware that would solve my Problem. As a simple but good solution i found the analog sharp IR distance sensor *Sharp GP2Y0A21*.  This sensor also enabled me, to use the arduino board for this project.
 
@@ -79,7 +79,7 @@ The Sharpsensor was recessed in the front of the box, so that it would recognize
 ##FINISH
 The plan was to extend the flipdot area, so that a text could've been written next to the tortoise. 
 Unfortunatly the Flipdot was to weak to flip an extension, why i was limited to the flipdot area.  
-The Video was recorded in Sicily with the help of my Girlfrind Annette Münzenmaier. Then it was Cut with the help of Final Cut Pro, and uploaded to vimeo.
+The Video was recorded in Sicily with the help of my Girlfrind Annette Münzenmaier. Then it was cut with the help of Final Cut Pro, and uploaded to vimeo.
 
 
 
