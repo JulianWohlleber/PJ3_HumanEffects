@@ -4,7 +4,7 @@ Since humen exist they affect on their environment. One of the resulting effects
 My flipdotwork faces this issue and breaks it down into two binary states; the moment you're sharing area with animals you're taking impact on their daily behaviour. This is why progress for humen often means  regress for nature.   
 In my flipdotwork I  equated this circumstance with a simple step forward - as the spectator steps forward and verges the object,  the tortose sitting in its recess in the box dies.
 
-[![Video](https://dl-web.dropbox.com/get/Public%20Stuff/PJ3_1.png?_subject_uid=32925921&w=AAAfjbRsRvh7XZMyXzRqH2CblMolnR0MI74tcrrfemi6kw)](https://vimeo.com/123685335) 
+[![Video](http://julianlucas.de/IOpictures/PJ3_1.png)](https://vimeo.com/123685335) 
 
 ##IDEA  
 When I started to realize my project, my first idea was to use facedetection with the help of the simple cv library and the raspberry pi with a usb web-cam.  The goal was to make a task for the spectator which was impossible to solve: Face the text on the Flipdot and read it. At the moment, the spectator would look at the dot, the dot would flip. The spectator would realize there is something written on the dot, but each time he would try to face it, it would disappear.  
@@ -72,25 +72,25 @@ The DistanceGP2Y0A21YK-library enabled my distance sensor not only to detect obj
   
 ##REALISATION - Hardware
 Until this point my project was a hardware-prototype: Everything was just connected barely on the breadboard of my teensy kit. Thats why I decided to solder everything to a plate to built a stable and by transportation unaffected circuit.   
-![Bild1](https://dl-web.dropbox.com/get/Public%20Stuff/PJ3_2.jpg?_subject_uid=32925921&w=AAAb1Wex0_pEvrQciwBzyXEfGLZrtvsEzboeBIA5NbEnZQ)  
+![Bild2](http://julianlucas.de/IOpictures/PJ3_2.png)  
   
 For the wrapping i used a tee box, which was painted white and later grinded for a used look. I wanted my object to look like it was just washed ashore from the see.  
-![Bild2](https://dl-web.dropbox.com/get/Public%20Stuff/PJ3_3.jpg?_subject_uid=32925921&w=AADWlLxAsniLPqHbo0AufsfAuj5cec9z9vjf1ubaRLubbg)  
+![Bild3](http://julianlucas.de/IOpictures/PJ3_3.png)  
   
 On the top of the box i drilled a huge whole where i recessed a brass pipe. On the bottom of the pipe the Flipdot should be located, so that the spectator should not see the inside of the box, but the Flipdot and its surrounding area.   
-![Bild3](https://dl-web.dropbox.com/get/Public%20Stuff/PJ3_4.jpg?_subject_uid=32925921&w=AACCZbQHuYTTrUCV1gEVo9O7jK3Yt7eNuXBUEkOWcpIr1g)
+![Bild4](http://julianlucas.de/IOpictures/PJ3_4.png)
   
 The Sharpsensor was recessed in the front of the box, so that it would recognize an approaching person.
 
-![Bild4](https://dl-web.dropbox.com/get/Public%20Stuff/PJ3_6.JPG?_subject_uid=32925921&w=AADM33bNTNYNkenpXKPD_X8GVmvXK6b13xezyadKptX85w)
+![Bild5](http://julianlucas.de/IOpictures/PJ3_6.png)
 
-![Bild5](https://dl-web.dropbox.com/get/Public%20Stuff/PJ3_7.JPG?_subject_uid=32925921&w=AADK92iQ1HZkVj53Iuqh19Ub0LMXFEIvVx8UkZqGR-LMTA)
+![Bild6](http://julianlucas.de/IOpictures/PJ3_7.png)
 
 ##FINISH
 The plan was to extend the flipdot area, so that a text could've been written next to the tortoise. 
 Unfortunatly the Flipdot was to weak to flip an extension, why i was limited to the flipdot area.  
 The Video was recorded in Sicily with the help of my Girlfrind Annette Münzenmaier. Then it was cut with the help of Final Cut Pro, and uploaded to vimeo.
 
-![Finish](https://dl-web.dropbox.com/get/Public%20Stuff/PJ3_5.JPG?_subject_uid=32925921&w=AAA1ehySYVGFF_hS9lAibbNOMwyMlwf5P3jtVahDeiRZjw)
+![Finish](http://julianlucas.de/IOpictures/PJ3_5.png)
 
 
