@@ -89,7 +89,7 @@ The Sharpsensor was recessed in the front of the box, so that it would recognize
 ##FINISH
 The plan was to extend the flipdot area, so that a text could've been written next to the tortoise. 
 Unfortunatly the Flipdot was to weak to flip an extension, why i was limited to the flipdot area.  
-The Video was recorded in Sicily with the help of my Girlfrind Annette Münzenmaier. Then it was cut with the help of Final Cut Pro, and uploaded to vimeo.
+The Video was recorded in Sicily with the help of my girlfriend Annette Münzenmaier. Then it was cut with the help of Final Cut Pro, and uploaded to vimeo.
 
 ![Finish](http://julianlucas.de/IOpictures/PJ3_5.png)
 
